@@ -1,2 +1,2 @@
 # Data-Bases🗒️
-<h3>#Azure Data Studio #SQLQuery #SSMS #MySQL 📗</h3>
+<h3>Advance SQL query course by Wroclaw University of Science and Technology📗</h3>
